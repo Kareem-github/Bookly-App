@@ -2,7 +2,7 @@ import 'package:bookly_app/constants.dart';
 import 'package:bookly_app/core/utils/app_router.dart';
 import 'package:bookly_app/core/utils/assets.dart';
 import 'package:bookly_app/features/home/presentation/views/home_view.dart';
-import 'package:bookly_app/features/views/widgets/sliding_text.dart';
+import 'package:bookly_app/features/splash/views/widgets/sliding_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:go_router/go_router.dart';
 
